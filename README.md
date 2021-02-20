@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# REACT-API-CRYPTO-TRACKER-V1
+
+## Reference
+- [Youtube: React API Project - Cryptocurrency Finance Price Tracker App Using Hooks and Axios
+](https://www.youtube.com/watch?v=9ohK7CapmIs&list=PLs1fqgQpnCmJSkrDA2wTsSsLnYpE8jpVy&index=10)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
